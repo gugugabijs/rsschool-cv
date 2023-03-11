@@ -26,6 +26,7 @@ I am a Junior Front-end developer with a passion for learning new skills everyda
 - driving
 - playing several musical instruments
 - reading books
+- skateboarding
 
 ## Languages
 
